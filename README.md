@@ -23,7 +23,9 @@ All configuration is written in **Lua** with the Neovim 0.12 modern API: `vim.ls
 ### Screenshots
 
 ![Home](assets/alpha.png)
+
 ![File manager](assets/neotree.png)
+
 ![Terminal](assets/term.png)
 
 ---
