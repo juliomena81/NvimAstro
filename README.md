@@ -103,7 +103,7 @@ For a reproducible installation, the repository includes `lazy-lock.json`:
 
 ---
 
-## Structure
+## Layout
 
 ```
 .
